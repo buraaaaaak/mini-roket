@@ -1,7 +1,7 @@
 # Mini-Roket
 Python ile pygame ve flask modülleri kullanarak yapılmış basit bir mini oyun
 
-Table of Contents
+İçerikler
 =================
 * [İndirme Yönergeleri](#İndirme-Yönergeleri)
 
