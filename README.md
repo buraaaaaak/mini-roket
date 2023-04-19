@@ -1,16 +1,16 @@
-# Mini-Roket
-Python ile pygame ve flask modülleri kullanarak yapılmış basit bir mini oyun
+# mini-roket
+python ile pygame ve flask modülleri kullanarak yapılmış basit bir mini oyun
 
-İçerikler
+içerikler
 =================
-* [İndirme Yönergeleri](#İndirme-Yönergeleri)
+* [indirme yönergeleri](#indirme-yönergeleri)
 
-# İndirme Yönergeleri
+# indirme yönergeleri
 
-1. Pip ile kurulması gereken gereksinimler
+1. pip ile kurulması gereken gereksinimler
 
 `pip install -r gereksinimler.txt`
 
-2. Oyunu çalıştırma aşaması
+2. oyunu çalıştırma aşaması
 
 `python3 brk.py`
